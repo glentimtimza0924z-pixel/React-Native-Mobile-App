@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "DevLab Compilation",
+    "slug": "devlab-mobile-compilation",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#1E1B4B"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1E1B4B"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
+
